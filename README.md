@@ -307,7 +307,7 @@ List of SystemSoundIDs
 </tr>
 <tr>
 	<td>1108</td>
-	<td>photoShutter.caf</td>
+	<td>photoShutter.maicaf</td>
 	<td>CameraShutter</td>
 </tr>
 <tr>
@@ -739,7 +739,7 @@ List of all system audio files in iOS 7.0.2
 /System/Library/Audio/UISounds/mail-sent.caf
 /System/Library/Audio/UISounds/middle_9_short_double_low.caf
 /System/Library/Audio/UISounds/new-mail.caf
-/System/Library/Audio/UISounds/photoShutter.caf
+/System/Library/Audio/UISounds/photoShutter.maicaf
 /System/Library/Audio/UISounds/shake.caf
 /System/Library/Audio/UISounds/short_double_high.caf
 /System/Library/Audio/UISounds/short_double_low.caf
